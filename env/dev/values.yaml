@@ -2,6 +2,6 @@ k8s:
   1.29:
     targetRevision: "dev"
   1.30:
-    targetRevision: "dev"
+    targetRevision: "HEAD"
   all:
     targetRevision: "dev"
