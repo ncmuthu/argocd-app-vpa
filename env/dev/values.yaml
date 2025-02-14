@@ -1,7 +1,6 @@
-k8s:
-  "1.29":
-    targetRevision: "dev"
-  "1.30":
-    targetRevision: "dev"
-  "all":
-    targetRevision: "dev"
+"1.29":
+  targetRevision: "dev"
+"1.30":
+  targetRevision: "dev"
+"all":
+  targetRevision: "dev"
